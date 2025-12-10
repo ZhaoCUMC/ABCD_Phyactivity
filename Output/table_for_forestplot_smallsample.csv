@@ -1,0 +1,11 @@
+Name,Name.2,Model,term,estimate,p.value,conf.low,conf.high
+Beh-Group1,,,,,,,
+  Baseline (Life-time),Count,Model3 on Testing (Count),pa.pos.count,-3.035910012,0.037072399,-5.888417638,-0.183402386
+  Longitudinal (Past 12-month),Count,Model4 on Testing (Count),pa.pos.count.p12,0.43421855,0.472623828,-0.752328755,1.620765854
+  Baseline (Life-time),Time*,Model3 on Testing (Time),pa.pos.time,-0.7032629,0.001558514,-1.136383504,-0.270142394
+  Longitudinal (Past 12-month),Time*,Model4 on Testing (Time),pa.pos.time.p12,-0.15368999,0.207643175,-0.392975396,0.085595415
+Beh-Group2,,,,,,,
+  Baseline (Life-time),Count,Model3 on Testing (Count),pa.neg.count,4.469297817,0.008092184,1.171600886,7.766994748
+  Longitudinal (Past 12-month),Count,Model4 on Testing (Count),pa.neg.count.p12,1.827392438,0.029868152,0.178917184,3.475867693
+  Baseline (Life-time),Time*,Model3 on Testing (Time),pa.neg.time,0.595123805,0.100328931,-0.11547637,1.30572398
+  Longitudinal (Past 12-month),Time*,Model4 on Testing (Time),pa.neg.time.p12,0.259699278,0.24062178,-0.174523408,0.693921963
