@@ -1,7 +1,7 @@
-# Explainable AI Analysis of Recreational Activities and Youth Behavioral & Cognitive Outcomes (ABCD Study)
+# Recreational Activities and Youth Behavioral & Cognitive Outcomes in the ABCD Study: an Explainable AI approach
 
 <p align="center">
   <img src="Figures/eFigure1.jpg" width="700">
 </p>
 
-Sharing the code for the article "Associations of Recreational Activities with Behavioral and Cognitive Outcomes in Youth: Findings from the ABCD Study Utilizing Explainable AI"
+This repository contains code and documentation for analyzing associations between recreational activities and behavioral/cognitive outcomes in youth using explainable AI methods.
